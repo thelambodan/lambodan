@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lambodan
+- 👋 Hi, I’m @thelambodan
 - 👀 I’m interested in blockchain, soliidity, react, ethersjs, python
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on Binance Smart Chain DApps 
